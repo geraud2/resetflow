@@ -22,7 +22,7 @@ export function SplashScreen({ onFinish }: SplashScreenProps) {
       <div 
         className="absolute inset-0 bg-cover bg-center bg-no-repeat"
         style={{
-          backgroundImage: 'url(../public/fonds.png)',
+          backgroundImage: 'url(/fonds.png)',
         }}
       />
       

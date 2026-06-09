@@ -56,7 +56,7 @@ export function ClientNotifications() {
         <div 
           className="fixed inset-0 bg-cover bg-center bg-no-repeat"
           style={{
-            backgroundImage: 'url(../public/fonds.png)',
+            backgroundImage: 'url(/fonds.png)',
           }}
         />
         <div className="fixed inset-0 bg-gradient-to-b from-black/10 via-black/20 to-black/80" />
